@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.753701b2.css",
+    "main.js": "/static/js/main.f2052c30.js",
+    "static/js/787.86008f5e.chunk.js": "/static/js/787.86008f5e.chunk.js",
+    "static/media/Astronaut.png": "/static/media/Astronaut.04dbdf60f302228827f3.png",
+    "index.html": "/index.html",
+    "main.753701b2.css.map": "/static/css/main.753701b2.css.map",
+    "main.f2052c30.js.map": "/static/js/main.f2052c30.js.map",
+    "787.86008f5e.chunk.js.map": "/static/js/787.86008f5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753701b2.css",
+    "static/js/main.f2052c30.js"
+  ]
+}

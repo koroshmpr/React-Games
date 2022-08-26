@@ -1,0 +1,14 @@
+.aste{
+    height: 150px;
+    animation: intro 1.5s ease-out ;
+    transform-origin: top left;
+}
+@keyframes intro {
+    0%{
+        transform: translateY(-100vh);
+    }
+    100% {
+        transform: translateY(0);
+    }
+    
+}
